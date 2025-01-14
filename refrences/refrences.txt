@@ -1,0 +1,14 @@
+[
+    {
+        "message_id": 3,
+        "caption": "مدار الکتریکی",
+        "document_url": "https://t.me/py_workshop_jozve/3",
+        "mime_type": "application/pdf"
+    },
+    {
+        "message_id": 4,
+        "caption": "Fpga",
+        "document_url": "https://t.me/py_workshop_jozve/4",
+        "mime_type": "application/pdf"
+    }
+]
