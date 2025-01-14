@@ -1,0 +1,13 @@
+telebot
+gTTS
+requests
+selenium
+Pillow
+pytesseract
+openai
+bs4
+pandas
+matplotlib
+tk
+bidi
+arabic-reshaper
